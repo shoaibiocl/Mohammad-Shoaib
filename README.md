@@ -2,7 +2,7 @@
 
 I am a **Research Fellow in Energy and Transport Modelling** at University College London (UCL). My research lives at the intersection of complex systems simulation, mathematical optimization, and emerging technology frameworks. I design decision-support tools to accelerate Net Zero transitions, optimize circular economies, and build resilient infrastructure across the transport, energy, and healthcare sectors among others.
 
-Currently, I am a researcher within the **TransiT (https://transit.ac.uk/)** project, where I focus on developing **Digital Twins** to model, simulate, and optimize the decarbonization and electrification of the maritime and shipping sectors.
+Currently, I am a researcher within the **[TransiT](https://transit.ac.uk/)** project, where I focus on developing **Digital Twins** to model, simulate, and optimize the decarbonization and electrification of the maritime and shipping sectors.
 
 ---
 
@@ -20,9 +20,11 @@ Currently, I am a researcher within the **TransiT (https://transit.ac.uk/)** pro
 * **TransiT (Digital Twins for Sustainable Transport):** Leading the development of a digital twin framework to model the operational, economic, and energy impacts of transitioning ferry corridors (e.g., Dover-Calais) to fully electric operations using Python (`salabim`).
 
 #### **Previous**
-* **ONEheart (Out of Cycle NExt Generation highly efficient air transport)(https://gtr.ukri.org/projects?ref=10003388):** Developed sociotechnical simulation models analyzing the air transport system’s transition to cleaner alternative fuels (liquid hydrogen and ammonia). Modeled the air transport infrastructure framework as a passive demand center to evaluate architectural and concept feasibility.
-* **ReMed (Circular Economy for Medical Devices)(https://www.remed.uk/):** Designed hybrid simulation model of small medical device supply chain for economic, operational, and environemental assessment on circular economy-based transitions. Could version available at: \href{Anylogic}{https://cloud.anylogic.com/model/7f91bc38-ff72-4319-8f02-a5c619806af8?mode=SETTINGS} 
-**Airborne Delay Prediction (Delhi International Airport Authority Limited):** Developed machine learning based predictive modeling frameworks to forecast and mitigate airborne delays for New Delhi international airport.
+* **ONEheart(https://gtr.ukri.org/projects?ref=10003388) (Out of Cycle NExt Generation highly efficient air transport):** Developed sociotechnical simulation models analyzing the air transport system’s transition to cleaner alternative fuels (liquid hydrogen and ammonia). Modeled the air transport infrastructure framework as a passive demand center to evaluate architectural and concept feasibility.
+
+* **[ReMed](https://www.remed.uk/) (Circular Economy for Medical Devices):** Designed hybrid simulation model of small medical device supply chain for economic, operational, and environemental assessment on circular economy-based transitions. Could version available at: [Anylogic/Cloud/MohdShoaib](https://cloud.anylogic.com/model/7f91bc38-ff72-4319-8f02-a5c619806af8?mode=SETTINGS)
+
+* **Airborne Delay Prediction (Delhi International Airport Authority Limited):** Developed machine learning based predictive modeling frameworks to forecast and mitigate airborne delays for New Delhi international airport.
 
 ---
 
@@ -46,4 +48,4 @@ Currently, I am a researcher within the **TransiT (https://transit.ac.uk/)** pro
 ### 🤝 Connect with Me
 * 💼 [LinkedIn](www.linkedin.com/in/mohd-shoaib-des-abs-ai) <!-- Replace with your link -->
 * 📧 [UCL Profile](https://www.shippingandoceans.com/team) <!-- Replace with your email -->
-* 📝 [Google Scholar](https://scholar.google.com/citations?user=bXCKb8wAAAAJ&hl=en)) <!-- Replace with your link -->
+* 📝 [Google Scholar](https://scholar.google.com/citations?user=bXCKb8wAAAAJ&hl=en) <!-- Replace with your link -->
