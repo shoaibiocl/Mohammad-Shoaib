@@ -19,25 +19,27 @@ Currently, I am a researcher within the **TransiT** project, where I focus on de
 #### **Current**
 * **TransiT (Digital Twins for Sustainable Transport):** Leading the development of a digital twin framework to model the operational, economic, and energy impacts of transitioning ferry corridors (e.g., Dover-Calais) to fully electric operations using Python (`salabim`).
 
-#### **Previous / Impact Highlights**
-* **ONEheart (Out of Cycle NExt Generation highly efficient air transport)(https://www.cranfield.ac.uk/academic-disciplines/hydrogen):** Developed sociotechnical simulation models analyzing the air transport system’s transition to cleaner alternative fuels (liquid hydrogen and ammonia). Modeled the air transport infrastructure framework as a passive demand center to evaluate architectural and concept feasibility.
-* **ReMed (Circular Economy for Medical Devices):** Designed complex supply chain and economic assessment models focused on the remanufacturing, reuse, and sustainable waste management of medical devices in collaboration with the NHS and manufacturing partners. 
-* **ReMed (Circular Economy for Medical Devices):** Designed complex supply chain and economic assessment models focused on the remanufacturing, reuse, and sustainable waste management of medical devices in collaboration with the NHS and manufacturing partners.
+#### **Previous**
+* **ONEheart (Out of Cycle NExt Generation highly efficient air transport)(https://gtr.ukri.org/projects?ref=10003388):** Developed sociotechnical simulation models analyzing the air transport system’s transition to cleaner alternative fuels (liquid hydrogen and ammonia). Modeled the air transport infrastructure framework as a passive demand center to evaluate architectural and concept feasibility.
+* **ReMed (Circular Economy for Medical Devices)[https://www.remed.uk/]:** Designed complex supply chain and economic assessment models focused on the remanufacturing, reuse, and sustainable waste management of medical devices in collaboration with the NHS and manufacturing partners. 
+**Airborne Delay Prediction (Delhi International Airport Authority Limited):** Developed predictive modeling frameworks to forecast and mitigate airborne delays at New Delhi airports.
 
 ---
 
 ### 🛠️ Technical Toolkit
-* **Languages:** Python (`salabim`, `SciPy`, `PuLP`, `Pyomo`, `pandas`), Java, MATLAB
-* **Simulation Platforms:** AnyLogic
+* **Languages:** Python, Java, MATLAB
+* **Simulation Platforms:** AnyLogic, Python (salabim)
 * **AI & Orchestration:** LangChain, OpenAI API, Agentic AI architectures
 * **Typesetting & Formats:** LaTeX, Markdown
 
 ---
 
 ### 🎓 Academic Background & Experience
-* **Research Fellow** | University College London (UCL) *(Present)*
-* **Research Fellow & Research Associate** | Cranfield University
-* **Ph.D. in Industrial Engineering** | Indian Institute of Technology (IIT) Delhi
+* **Research Fellow** | University College London (UCL) *(Apr 20206 - Present)*
+* **Research Fellow** | Cranfield University (Jan 2025 - Mar 2026)
+* **Research Associate** | Loughborough University & Nottingham Trent University (Feb 2023 - Jan  2025)
+* **Research Assistant** | IIT Delhi (June 2022 - Jan 2023)
+* **Ph.D. in Industrial Engineering** | Indian Institute of Technology (IIT) Delhi (July 2017 - Aug 2022)
 
 ---
 
