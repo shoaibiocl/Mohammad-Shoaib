@@ -36,12 +36,20 @@ Currently, I am a researcher within the **[TransiT](https://transit.ac.uk/)** pr
 
 ---
 
-### 🎓 Academic Background & Experience
-* **Research Fellow** | University College London (UCL) *(Apr 20206 - Present)*
-* **Research Fellow** | Cranfield University (Jan 2025 - Mar 2026)
-* **Research Associate** | Loughborough University & Nottingham Trent University (Feb 2023 - Jan  2025)
-* **Research Assistant** | IIT Delhi (June 2022 - Jan 2023)
-* **Ph.D. in Industrial Engineering** | Indian Institute of Technology (IIT) Delhi (July 2017 - Aug 2022)
+#### Academic & Research Experience
+* **Research Fellow** | University College London (UCL) *(Apr 2026 - Present)*
+* **Research Fellow** | Cranfield University *(Jan 2025 - Mar 2026)*
+* **Research Associate** | Loughborough University & Nottingham Trent University *(Feb 2023 - Jan  2025)*
+* **Research Assistant** | IIT Delhi *(June 2022 - Jan 2023)*
+
+#### Industrial Experience
+* **Logistics Associate** | Landmark Group, Jeddah, KSA *(2016 - 2017)*
+* **Fleet Marketing Officer** | Indian Oil Corporation Limited, Aurangabad, India *(2013-2014)*
+
+### 🎓 Academic Background 
+* **Ph.D. in Industrial Engineering** | Indian Institute of Technology (IIT) Delhi *(2017-2022)*
+* **Post Graduate Diploma in Industrial Engineering** | Indian Institute of Management Mumbai (formerly NITIE Mumbai) *(2014 - 2016)*
+* **B.Tech in Mechanical Engineering** | Jamia Millia Islamia New Delhi *(2008 - 2012)*
 
 ---
 
