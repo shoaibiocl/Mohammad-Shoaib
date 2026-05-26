@@ -34,7 +34,7 @@ Currently, I am a researcher within the **[TransiT](https://transit.ac.uk/)** pr
 * **AI & Orchestration:** LangChain, OpenAI API, Agentic AI architectures
 * **Typesetting & Formats:** LaTeX, Markdown
 
-### 🎓 Academic Background 
+### 🎓 Background 
 * **Ph.D. in Industrial Engineering** | Indian Institute of Technology (IIT) Delhi *(2017-2022)*
 * **Post Graduate Diploma in Industrial Engineering** | Indian Institute of Management Mumbai (formerly NITIE Mumbai) *(2014 - 2016)*
 * **B.Tech in Mechanical Engineering** | Jamia Millia Islamia New Delhi *(2008 - 2012)*
